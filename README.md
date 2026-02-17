@@ -43,8 +43,12 @@ TelecomX_LATAM/
 ├── 📁 data/
 │   └── (los datos se cargan directamente desde GitHub vía URL)
 │
-└── 📁 outputs/
-    └── grafico_porcentajes.jpg    # Gráfico exportado de variables categóricas
+└── 📁 Resultados/
+    │
+    ├── 1grafico_evasion_cliente.jpg
+    ├── 2grafico_porcentajes.jpg
+    ├── 3grafico_evasion_varnumeric.jpg
+    └── 4grafico_abandono.jpg 
 ```
 
 ---
